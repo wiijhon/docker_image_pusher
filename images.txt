@@ -1,3 +1,4 @@
 nginx
 jellyfin
 bestzwei/libretv
+homeassistant
